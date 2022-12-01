@@ -1,4 +1,4 @@
-// Creado por David Panta
+// Creado por Dayana Garcia
 
 /* pone a su disposición los objetos cin, cout en el ámbito estándar (std), de tal manera que usted puede comenzar a enviar o recibir información a través de los mismos sin siquiera preocuparse de su creación. */
 # incluir < iostream >
